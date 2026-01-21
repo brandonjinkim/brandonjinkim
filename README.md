@@ -37,7 +37,7 @@ Mood Calendar is a collaborative social platform that allows users to share thei
 ## XPyre
 [XPyre Codebase](https://github.com/lindsym/xpyre)
 
-#Skills
+# Skills
 
 ## I am familiar with:
 - Javascript
