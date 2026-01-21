@@ -29,11 +29,23 @@ Mood Calendar is a collaborative social platform that allows users to share thei
 
 # Resume Optimization System
 
-The Resume Optimization System is a 
-
 [Resume Optimization System](https://resume-optimization-syst-543be.web.app/)
-  
 
+# Canary
+[Canary Codebase]()
+
+# XPyre
+[XPyre Codebase](https://github.com/lindsym/xpyre)
+
+## Skills
+
+# I am familiar with:
+- Javascript
+- HTML/CSS
+- React
+- Node.js
+- Java
+- Figma
 
 <!--
 **brandonjinkim/brandonjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
