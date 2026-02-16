@@ -13,6 +13,10 @@ I am a Full Stack developer currently working on Joko, a creator monetization pl
 - Major: Informatics
 - Jan 25 - Dec 26
 
+## Resume
+[View my resume (PDF)](BrandonKimResumePDF10.pdf)
+
+
 # Projects:
 
 ## Joko
