@@ -33,13 +33,19 @@ Mood Calendar is a collaborative social platform that allows users to share thei
 
 ## Resume Optimization System
 
+The Resume Optimization System is a frontend project designed to assist students with constructing and modifying their resumes using Google's Gemini API. 
+
 [Resume Optimization System](https://resume-optimization-syst-543be.web.app/)
 
 ## Canary
 [Canary Codebase]()
 
+Canary was a hackathon project that let users spot and post ICE postings in the Greater Seattle area. We used Figma for design and HTML/CSS/JavaScript and an integration of a Google Map's API to for the webpage.
+
 ## XPyre
 [XPyre Codebase](https://github.com/lindsym/xpyre)
+
+XPyre is a mobile app built with Swift in XCode to alert users of expiring food items and recommending food recipes based off those expiring foods.
 
 # Skills
 
