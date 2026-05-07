@@ -10,8 +10,6 @@ I have years of experience in the customer-service industry, which helps me brin
 - Passionate in creating systems for underrepresented groups (specifically in finance!)
 - Reach me: https://www.linkedin.com/in/brandonjinkim/
 
-# Skills
-
 ## I am familiar with:
 - Javascript
 - HTML/CSS
