@@ -2,11 +2,23 @@
 
 I am a Full Stack developer currently working on Joko, a creator monetization platform for recording artists to form deeper connections with their global audiences and monetize these interactions for income. 
 
+I have years of experience in the customer-service industry, which helps me bring a unique perspective in the realm of product development and software engineering. Its also shaped me to strongly believe in approaching problems with a customer-first mindset, which I believe is essential for creating effective solutions.
+
 # About me:
 - Pronouns: he/him
 - Student at the University of Washington iSchool
 - Passionate in creating systems for underrepresented groups (specifically in finance!)
 - Reach me: https://www.linkedin.com/in/brandonjinkim/
+
+# Skills
+
+## I am familiar with:
+- Javascript
+- HTML/CSS
+- React
+- Node.js
+- Java
+- Figma
 
 ## Education:
 - University of Washington, The Information School
@@ -72,15 +84,6 @@ Canary was a hackathon project that let users spot and post ICE postings in the 
 
 XPyre is a mobile app built with Swift in XCode to alert users of expiring food items and recommending food recipes based off those expiring foods.
 
-# Skills
-
-## I am familiar with:
-- Javascript
-- HTML/CSS
-- React
-- Node.js
-- Java
-- Figma
 
 <!--
 **brandonjinkim/brandonjinkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
